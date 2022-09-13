@@ -3,14 +3,17 @@ plugins {
 }
 
 android {
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
-        minSdk 32
-        targetSdk 32
+        minSdk 33
+        targetSdk 33
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
+        versionName '0.5.6'
+        versionCode 56
+        versionNameSuffix 'beta'
     }
 
     buildTypes {
@@ -23,6 +26,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+    buildToolsVersion '33.0.0'
 }
 
 dependencies {
