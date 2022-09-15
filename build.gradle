@@ -11,9 +11,9 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
+        versionCode 56
         versionName '0.5.6'
-        versionCode 1056
-        versionNameSuffix ' beta'
+        versionNameSuffix 'beta'
     }
 
     buildTypes {
@@ -26,7 +26,6 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
-    buildToolsVersion '33.0.0'
 }
 
 dependencies {
