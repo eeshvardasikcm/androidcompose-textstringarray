@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.eeshvardasikcm.cloudlib.TextStringArray-merged_res-24:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "com.eeshvardasikcm.cloudlib.TextStringArray-material-1.5.0-6:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.eeshvardasikcm.cloudlib.TextStringArray-merged_res-24:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "com.eeshvardasikcm.cloudlib.TextStringArray-material-1.5.0-6:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

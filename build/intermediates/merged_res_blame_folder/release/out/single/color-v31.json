@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.eeshvardasikcm.cloudlib.TextStringArray-merged_res-24:/color-v31/m3_dynamic_dark_default_color_secondary_text.xml",
+        "source": "com.eeshvardasikcm.cloudlib.TextStringArray-material-1.5.0-6:/color-v31/m3_dynamic_dark_default_color_secondary_text.xml"
+    },
+    {
+        "merged": "com.eeshvardasikcm.cloudlib.TextStringArray-merged_res-24:/color-v31/m3_dynamic_dark_highlighted_text.xml",
+        "source": "com.eeshvardasikcm.cloudlib.TextStringArray-material-1.5.0-6:/color-v31/m3_dynamic_dark_highlighted_text.xml"
+    },
+    {
+        "merged": "com.eeshvardasikcm.cloudlib.TextStringArray-merged_res-24:/color-v31/m3_dynamic_dark_hint_foreground.xml",
+        "source": "com.eeshvardasikcm.cloudlib.TextStringArray-material-1.5.0-6:/color-v31/m3_dynamic_dark_hint_foreground.xml"
+    },
+    {
+        "merged": "com.eeshvardasikcm.cloudlib.TextStringArray-merged_res-24:/color-v31/m3_dynamic_primary_text_disable_only.xml",
+        "source": "com.eeshvardasikcm.cloudlib.TextStringArray-material-1.5.0-6:/color-v31/m3_dynamic_primary_text_disable_only.xml"
+    },
+    {
+        "merged": "com.eeshvardasikcm.cloudlib.TextStringArray-merged_res-24:/color-v31/m3_dynamic_default_color_secondary_text.xml",
+        "source": "com.eeshvardasikcm.cloudlib.TextStringArray-material-1.5.0-6:/color-v31/m3_dynamic_default_color_secondary_text.xml"
+    },
+    {
+        "merged": "com.eeshvardasikcm.cloudlib.TextStringArray-merged_res-24:/color-v31/m3_dynamic_default_color_primary_text.xml",
+        "source": "com.eeshvardasikcm.cloudlib.TextStringArray-material-1.5.0-6:/color-v31/m3_dynamic_default_color_primary_text.xml"
+    },
+    {
+        "merged": "com.eeshvardasikcm.cloudlib.TextStringArray-merged_res-24:/color-v31/m3_dynamic_hint_foreground.xml",
+        "source": "com.eeshvardasikcm.cloudlib.TextStringArray-material-1.5.0-6:/color-v31/m3_dynamic_hint_foreground.xml"
+    },
+    {
+        "merged": "com.eeshvardasikcm.cloudlib.TextStringArray-merged_res-24:/color-v31/m3_dynamic_dark_primary_text_disable_only.xml",
+        "source": "com.eeshvardasikcm.cloudlib.TextStringArray-material-1.5.0-6:/color-v31/m3_dynamic_dark_primary_text_disable_only.xml"
+    },
+    {
+        "merged": "com.eeshvardasikcm.cloudlib.TextStringArray-merged_res-24:/color-v31/m3_dynamic_highlighted_text.xml",
+        "source": "com.eeshvardasikcm.cloudlib.TextStringArray-material-1.5.0-6:/color-v31/m3_dynamic_highlighted_text.xml"
+    },
+    {
+        "merged": "com.eeshvardasikcm.cloudlib.TextStringArray-merged_res-24:/color-v31/m3_dynamic_dark_default_color_primary_text.xml",
+        "source": "com.eeshvardasikcm.cloudlib.TextStringArray-material-1.5.0-6:/color-v31/m3_dynamic_dark_default_color_primary_text.xml"
+    }
+]

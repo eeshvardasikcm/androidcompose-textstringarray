@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.eeshvardasikcm.cloudlib.TextStringArray-merged_res-24:/layout-v26/abc_screen_toolbar.xml",
+        "source": "com.eeshvardasikcm.cloudlib.TextStringArray-appcompat-1.4.1-17:/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "com.eeshvardasikcm.cloudlib.TextStringArray-merged_res-24:/layout-v26/mtrl_calendar_month.xml",
+        "source": "com.eeshvardasikcm.cloudlib.TextStringArray-material-1.5.0-6:/layout-v26/mtrl_calendar_month.xml"
+    }
+]

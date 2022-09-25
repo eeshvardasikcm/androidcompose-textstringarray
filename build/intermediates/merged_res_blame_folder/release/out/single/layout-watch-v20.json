@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.eeshvardasikcm.cloudlib.TextStringArray-merged_res-24:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.eeshvardasikcm.cloudlib.TextStringArray-appcompat-1.4.1-17:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.eeshvardasikcm.cloudlib.TextStringArray-merged_res-24:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.eeshvardasikcm.cloudlib.TextStringArray-appcompat-1.4.1-17:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]
